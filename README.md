@@ -1619,3 +1619,9 @@ The code is simple. The concepts are clear. The possibilities are endless.
 **Last Updated:** November 2025  
 **Status:** Active Development  
 **License:** MIT  
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
